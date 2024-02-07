@@ -34,6 +34,12 @@ async def explains(ctx):
     await ctx.send(embed=emb)
 
 
+@bot.command()
+async def a_test(ctx,a):
+    ctx.send(ctx.commands.MissingRequiredAttachment(a))
+
+
+
 #@bot.command()
 #async def concert(ctx):
     #voice_channel = '1158029498072170516'
@@ -43,4 +49,4 @@ async def explains(ctx):
 
 keep_alive()
 
-bot.run(os.environ["Token"])
+bot.run('')
