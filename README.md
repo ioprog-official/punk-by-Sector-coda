@@ -1,16 +1,8 @@
-Punk is a discord bot designed to add fun to your communication.
-
-Discord bot is an open source project so anyone can contribute to the project
-
-Punk discord bot functions:
-
-*dance
-
-*hi
-
-*ok
-
-*explains
+# О проекте
 
 
- Punk bot by Sektor сoda
+Панк-прикольный дискорд бот для, вашего сервера написанный на python и дискорд.py
+
+
+
+---
